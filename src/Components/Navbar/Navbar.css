@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    padding: 2% 5%;
+    color: #fff;
+}
+
+.name {
+    font-size: 24px;
+}
+
+
+.navbar-items a{
+    margin: 0px 20px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+}
